@@ -1,4 +1,5 @@
 class BaseState:
+
     def update(
         self
     ):
